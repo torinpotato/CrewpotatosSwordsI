@@ -1,0 +1,4 @@
+displayName = [c/00FFFF:Crewpotato's] [c/7A0000:Items]
+author = Crewpotato
+version = 0.5.6
+homepage = https://github.com/torinpotato/CrewpotatosSwordsI/wiki

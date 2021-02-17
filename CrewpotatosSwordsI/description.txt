@@ -1,0 +1,216 @@
+Crewpotato's Items adds many items and some enemies.
+This mod is in V0.5.6.
+Features:
+-Sand Sword
+-Grass Sword
+-Dirt Sword
+-Sandy Grass Sword
+-Muddy Sword
+-Jungle Grass Sword
+-Ground Bar
+-Ground Sword
+-Corrupted Ground Sword (Corruption exclusive)
+-Bloody Ground Sword (Crimson exclusive)
+-Evil Sword
+-Molten Evil Sword
+-Fish Sword
+-Piranha Sword
+-Fish Bar
+-Wooden Fighter Charm
+-Stone Fighter Charm
+-Iron/Lead Fighter Charm
+-Speedy Potion/Speedy Buff
+-Extra Speedy Potion/Extra Speedy Buff
+-Dirt Pickaxe
+-Muddy Pickaxe
+-Dirt Pistol
+-Dirt Autofirer
+-Dirt Bullet
+-True Dirt Sword
+-True Evil Sword
+-Bubble Slime (Enemy)
+-Bubble Gel
+-Vital Charm (lv 1)
+-Zombie Slime (Enemy)
+-Zombie Gel
+-Gold Slime (Enemy)
+-Golden Gel
+----------------------
+V0.5.6
+1 new NPC
+1 new item
+Released Features:
+-Gold Slime
+-Golden Gel
+----------------------
+V0.5.5
+1 new NPC
+1 new item
+1 rename
+Released Features:
+-Zombie Slime
+-Zombie Gel
+-Mod was renamed from Crewpotato's Swords to Crewpotato's Items.
+----------------------
+V0.5.4
+1 new weapon
+1 new accessory
+1 change
+Released Features:
+-Toy Bubble Gun
+-Vital Charm lv 1
+-The Bubble Slime's spawn rate has been halved.
+
+----------------------
+V0.5.3
+1 new item
+Released Features:
+-Bubble Gel
+----------------------
+V0.5.2
+1 new NPC
+Released Features:
+-Bubble Slime
+----------------------
+V0.5.1.1 
+2 new features
+Released Features:
+-Name of the mod now has a color.
+-There is now a homepage.
+----------------------
+V0.5.1 
+2 new weapons
+Released Features:
+-True Dirt Sword
+-True Evil Sword
+----------------------
+V0.5 
+2 new guns
+1 new ammo
+Released Features:
+-Dirt Pistol
+-Dirt Autofirer
+-Dirt Bullet
+----------------------
+V0.4.4.1 (Accessories and Tools update)
+1 recipe change
+Released Features:
+-Speedy Potion's recipe was changed.
+----------------------
+V0.4.4 (Accessories and Tools update)
+Added 2 pickaxes
+Released Features:
+-Dirt Pickaxe
+-Muddy Pickaxe
+----------------------
+V0.4.3 (Accessories and Tools update)
+Added 3 accessories
+Added 2 potions
+Added 2 buffs
+Released Features:
+-Stone Fighter Charm
+-Iron Fighter Charm
+-Lead Fighter Charm
+-Speedy Potion
+-Speedy Buff
+-Extra Speedy Potion
+-Extra Speedy Buff
+----------------------
+V0.4.2 (Accessories and Tools update)
+Removed 1 accessory
+Released Features:
+-Removed Death Charm
+----------------------
+V0.4.1 (Accessories and Tools update)
+1 new accessory
+Released Features:
+-Death Charm
+----------------------
+V0.4 (Accessories and Tools update)
+1 new accessory
+Released Features:
+-Wooden Fighter Charm
+----------------------
+V0.3.4.3 (The Materials n' Weapons update)
+New Icon
+Released Features:
+-Now has an icon.
+----------------------
+V0.3.4.2 (The Materials n' Weapons update)
+2 nerfs
+Released Features:
+-Evil Sword is now slightly slower.
+-Molten Evil Sword is now slightly slower.
+----------------------
+V0.3.4.1 (The Materials n' Weapons update)
+1 change
+Released Features:
+-Changed rarities of items.
+----------------------
+V0.3.4 (The Materials n' Weapons update)
+2 new weapons
+1 new material
+1 retexture
+Released Features:
+-Fish Sword
+-Piranha Sword
+-Fish Bar
+-Retextured the Ground Bar.
+----------------------
+V0.3.3 (The Materials n' Weapons update)
+1 new weapon
+Released Features:
+-Molten Evil Sword
+----------------------
+V0.3.2.2 (The Materials n' Weapons update)
+1 nerf
+Released Features:
+-Nerfed speed of most weapons.
+----------------------
+V0.3.2.1 (The Materials n' Weapons update)
+1 fix
+Released Features:
+-Fixed Evil Sword recipe.
+----------------------
+V0.3.2 (The Materials n' Weapons update)
+1 new weapon!
+Released Features:
+-Evil Sword
+----------------------
+V0.3.1.2 (The Materials n' Weapons update)
+1 small fix!
+Released Features:
+-Fixed the typo in Bloody Ground Sword.
+----------------------
+V0.3.1.1 (The Materials n' Weapons update)
+2 fixes!
+Released Features:
+-Bloody Ground Sword is now slower.
+-Ground Bar can now stack to 999.
+----------------------
+V0.3.1 (The Materials n' Weapons update)
+2 new swords!
+Released Features:
+-Corrupted Ground Sword
+-Bloody Ground Sword
+----------------------
+V0.3 (The Materials n' Weapons update)
+1 new sword!
+1 new material!
+Released Features:
+-Ground Bar
+-Ground Sword
+----------------------
+V0.2
+2 new swords!
+Released Features:
+-Muddy Sword
+-Jungle Grass Sword
+--------------------
+V0.1
+4 new swords!
+Released Features:
+-Sand Sword
+-Grass Sword
+-Dirt Sword
+-Sandy Grass Sword
